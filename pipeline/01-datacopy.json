@@ -47,7 +47,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "DelimitedText1",
+						"referenceName": "logdatacsv",
 						"type": "DatasetReference"
 					}
 				],
