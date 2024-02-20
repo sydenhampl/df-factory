@@ -1,5 +1,5 @@
 {
-	"name": "DelimitedText1",
+	"name": "logdatacsv",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "datalake198204service",
